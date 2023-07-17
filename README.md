@@ -12,7 +12,7 @@
 -  Elementos para metadatos
 -  Elementos de secciones
 -  Elementos semánticos o estructurales
--  Elementos par acreacion de tablas
+-  Elementos para creación de tablas
 -  Elementos de formularios
 -  Elementos de formularios
 
