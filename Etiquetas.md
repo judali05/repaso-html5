@@ -1,5 +1,5 @@
 # Etiquetas HTML
- Recopilacion de la etiquetas con su propia funcion:
+ Recopilacion de la etiquetas con su propia funcion para la conprención del repaso:
  
 ***
 ## Elementos de inicio
@@ -23,9 +23,9 @@
 * **< h1 > hasta < h6 >** : estructura del encabezado o titulos para el contenido del documento
 * **< section >< /section>** : representa una sección de un documento, para determinar una parte del documento.
 * **< article >< /article >** : representa un contenido independiente y autonomo.
-* * **< p >< /p > : representa el contenido del documento.
+* **< p >< /p >** : representa el contenido del documento.
 * **< aside >< /aside >** : representa el contenido adicional o barra lateral del documento.
-* **< footer >< /footer > : represente el contenido que ira en el pie de pagina del documento.
+* **< footer >< /footer >** : represente el contenido que ira en el pie de pagina del documento.
 
 
 
