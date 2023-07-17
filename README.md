@@ -2,8 +2,3 @@
 
 Este repositorio es un breve repaso para la adquiri nuevo conocimiento del lenguaje HTML con conceptos y ejemplos.
 
-***
-
-## Etiquetas HTML
- Recopilacion de la etiquetas con su propia funcion:
-###
