@@ -27,6 +27,48 @@
 * **< aside >< /aside >** : representa el contenido adicional o barra lateral del documento.
 * **< footer >< /footer >** : represente el contenido que ira en el pie de pagina del documento.
 
+***
+## Elementos semánticos o estructurales
+* **< a >< /a >** : nos ayuda para la creacion de hiperenlaces para el documento.
+* **< strong >< /strong >** : nos ayuda a especificar las zonas mas importantes de un texto.
+* **< small >< /small >** :  nos ayuda a hacer una talla mas pequeña la letra del texto.
+* **< cite >< /cite >** : nos ayuda a definir la fuente o autor del texto citado.
+* **< sub>< /sub >** : nos ayuda a definir un subindice.
+* **< sup >< /sup >** : nos ayuda a definir un superindices
+* **< mark >< /mark >**  : nos ayuda a resaltar un texto.
+* **< spam >< /spam >** : nos ayuda  a aplicar estilos al texto o agrupar elementos  en linea.
+* **< br >** : nos ayuda a dra un salto de linea en el documento.
+
+***
+## Elementos par acreacion de tablas 
+* **< table >< /table >** : nos ayuda a definir el inicio de una tabal.
+* **< caption >< /caption >** : este indica el titulo que posee la tabla.
+* **< colgroup >< /clogroup >** : para agrupar una serie de coloumnas.
+* **< tr >< /tr >** : define toda una fila de una celda que posee una tabla.
+* **< td >< /td >** : define una celda en especifico de una tabla.
+* **< th >< /th >** : difine la funcion de definir cual sera el encabezado que posee una celda en especifico.
+  
+***
+## Elementos de formularios
+* **< form >< /form >** : esta es la etiqueta de inicio y cierre de un formulario.
+* **< fieldset >< /fieldset >** : permite organizar en grupos loa campos de un formulario.
+* **< legend >< /legend >** : esta define el titulo de la etiqueta < fieldset >.
+* **< label >< /label >** : define el titulo de un control del formulario.
+* **< imput >** : se usa para crear controles interactivos en el formulario.
+* **< button >< /button >** : define el boton de un formulario.
+* **< select >< /select >** : permite seleccionar una serie de opciones que se encuentren en dicho fromulario.
+* **< option >< /option >** : representa un item dentro de un < select >.
+* **< textarea >< /textarea >** : define un campo para que el usuario ingrese un texto con una cantidad maxima en el formulario.
+
+***
+## Elementos multimedia
+* **< img >** : permite incorporar imagenes.
+* **< video >** : permite incorporar videos.
+* **< audio >** : permite incorporar audios.
+* **< object >** : representa un recurso externo, que puede ser tratado como una imagen, un contexto de navegación anidado, o como un recurso que debe ser manejado por un plugin.
+* **< iframe >** : permite incrustrar otra página HTML en la página actual.
+
+***
 
 
 
