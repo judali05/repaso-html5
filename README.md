@@ -2,3 +2,17 @@
 
 Este repositorio es un breve repaso para la adquiri nuevo conocimiento del lenguaje HTML con conceptos y ejemplos.
 
+***
+# Etiquetas HTML
+ Recopilacion de la etiquetas con su propia funcion para la conprención del repositorio : 
+ 
+***
+* ### Elementos de inicio
+* ### Elementos para metadatos
+* ### Elementos de secciones
+* ### Elementos semánticos o estructurales
+* ### Elementos par acreacion de tablas
+* ### Elementos de formularios
+* ### Elementos de formularios
+
+
