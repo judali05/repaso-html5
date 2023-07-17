@@ -1,5 +1,5 @@
 # Etiquetas HTML
- Recopilacion de la etiquetas con su propia funcion para la conprención del repaso:
+ Recopilacion de la etiquetas con su propia funcion para la conprención del repositorio : 
  
 ***
 ## Elementos de inicio
