@@ -1,4 +1,4 @@
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-html5-41-1175209.png" style="width: 90px; height: 90px; margin: 2px;" align="left" >
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-html5-41-1175209.png" style="width: 100px; height: 100px; margin: 2px;" align="left" >
 
 <h1> REPOSITORIO DE HTML5 </h1> <br>
 
