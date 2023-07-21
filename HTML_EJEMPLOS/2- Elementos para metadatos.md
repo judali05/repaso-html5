@@ -1,6 +1,6 @@
 ## Elementos para metadatos
 **< head >< /head >**
-<br>donde se ubican los metadatos en el documento con enlacesa, la cual solo es visible para los navegadores.
+<br>en esta etiqueta es donde se ubican los metadatos en el documento con enlacesa, la cual solo es visible para los navegadores.
 ~~~
 <!DOCTYPE html>
 <html>
