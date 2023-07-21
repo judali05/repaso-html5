@@ -1,5 +1,5 @@
 ## Elementos para metadatos
-* **< head >< /head >**
+**< head >< /head >**
 <br>donde se ubican los metadatos en el documento con enlacesa, la cual solo es visible para los navegadores.
 ~~~
 <!DOCTYPE html>
@@ -9,7 +9,7 @@
     </head>
 </html>
 ~~~
-* **< title >< /title >**
+**< title >< /title >**
 <br>define el titulo de la web.
 ~~~
 <!DOCTYPE html>
@@ -19,7 +19,7 @@
     </head>
 </html>
 ~~~
-* **< link >**
+**< link >**
 <br>la etiqueta incorpora recursos que son externos a el documento.
 ~~~
 <!DOCTYPE html>
@@ -30,7 +30,7 @@
     </head>
 </html>
 ~~~
-* **< meta >**
+**< meta >**
 <br>sirve para aportar informacion sobre el documento.
 ~~~
 <!DOCTYPE html>
@@ -42,7 +42,7 @@
     </head>
 </html>
 ~~~
-* **< style >< /style >**
+**< style >< /style >**
 <br>funciona para agregar documentacion css y se aplique en el documento.
 ~~~
 <!DOCTYPE html>
