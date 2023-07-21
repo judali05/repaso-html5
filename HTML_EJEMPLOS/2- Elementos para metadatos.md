@@ -43,7 +43,7 @@
 </html>
 ~~~
 **< style >< /style >**
-<br>funciona para agregar documentacion css y se aplique en el documento.
+<br>funciona para agregar documentación css y se aplique en el documento.
 ~~~
 <!DOCTYPE html>
 <html>
