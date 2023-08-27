@@ -2,8 +2,7 @@
 
 <h1> CURSO DE HTML5 </h1> <br>
 
-### Este repositorio es un breve repaso para ir adquirirendo nuevo conocimiento del lenguaje de marcado de hipertexto (HTML), este leguaje de marcado consiste en una serie de elementos los cuales sirven para cerrar, delimitar o marcar el contenido del documento haciendo que aparesca de cierta manera o actuen de diferentes formas la cual nos faciliten la comprencion de la misma. 
-
+### Este repositorio es un breve repaso para ir adquirirendo nuevo conocimiento del lenguaje de marcado de hipertexto (HTML), este leguaje de marcado consiste en una serie de elementos los cuales sirven para cerrar, delimitar o marcar el contenido del documento haciendo que aparesca de cierta manera o actuen de diferentes formas la cual nos faciliten la comprencion de la misma. <br> <br>
 ***
 # Etiquetas HTML
 ### Recopilacion de la etiquetas con su propia funcion para la conprención del repositorio : 
