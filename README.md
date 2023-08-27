@@ -7,7 +7,7 @@
 # Etiquetas HTML
 ### Recopilacion de la etiquetas con su propia funcion para la conprención del repositorio : 
  
--  Elementos de inicio
+-  <a href="https://github.com/judali05/HTML-5/blob/main/EJEMPLOS_ETIQUETAS/1-%20Elementos%20de%20inicio.md">Elementos de inicio</a>
 -  Elementos para metadatos
 -  Elementos de secciones
 -  Elementos semánticos o estructurales
