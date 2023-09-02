@@ -205,21 +205,6 @@ Representa un contenido independiente y autonomo.
     </body>
 </html>
 ~~~
-### `< p >< /p >`
-Representa el contenido del documento.
-~~~
-<!DOCTYPE html>
-<html>
-    <body>
-        <header>
-        </header>
-        <main>
-                <h1>Titulo del tema</h1>
-                <p>resumen del tema a tratar</p>
-        </main>
-    </body>
-</html>
-~~~
 ### `< aside >< /aside >`
 Representa el contenido adicional o barra lateral del documento.
 ~~~
