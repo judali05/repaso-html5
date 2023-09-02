@@ -22,6 +22,7 @@ Una de las principales ventajas de HTML5 es la inclusión de elementos semántic
 <br>
 html ordena mediante marcadores semánticos haciendo que se diferencie claramente el contenido que referencia cada etiqueta.
 <br>
+<br>
 
 ~~~
 <!DOCTYPE html>
