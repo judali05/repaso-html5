@@ -1,5 +1,5 @@
 # :mag_right: SINTAXIS 
-La etiqueta presenta frecuentemente dos partes, su apertura y cierre, y se encierran ambas partes entre símbolos < (menor que) y > (mayor que).
+La etiqueta presenta frecuentemente dos partes, su apertura y cierre, y se encierran ambas partes entre símbolos "menor que" y "mayor que".
 <br>
 
 ## APERTURA
@@ -21,7 +21,7 @@ El final de una etiqueta se produce de manera similar a su apertura, aunque agre
 
 ***
 
-## ESTRUCURA
+## CONTENIDO
 Una de las principales ventajas de HTML5 es la inclusión de elementos semánticos, o marcados semánticos, que nos ayudan a definir las distintas divisiones de una página web.
 <br>
 <div align="center">
@@ -32,9 +32,47 @@ Una de las principales ventajas de HTML5 es la inclusión de elementos semántic
 <br>
 html ordena mediante marcadores semánticos haciendo que se diferencie claramente el contenido que referencia cada etiqueta.
 
+***
+
+## ESTRUCTURA BASICA
+~~~
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Titulo</h1>
+    </header>
+    <nav>
+        <a href="#">Seleccione 1</a>
+        <a href="#">Seleccione 2</a>
+    </nav>
+    <section>      
+        <article>
+            <h2>Contenido principal</h2>
+            <p>Este es el contenido principal de mi web.</p>      
+        </article>      
+    </section>
+    <aside>
+        <h3>Contenido secundario</h3>
+        <p>Me gusta mucho esta página.</p>
+    </aside>
+    <footer>
+        <h4>Redes sociales</h4>
+        <a href="#">Facebook</a>
+        <a href="#">Tiwtter</a>
+    </footer>
+</body>
+</html>
+~~~
+
 > [!IMPORTANT]
 >`Comentario` <br>
 >En este lenguaje un comentarios se escribe de la siguiente forma <br>
- `/* (Aquí va lo que se comente) */`
+ `<!-- (Aquí va lo que se comente) -->`
 <br>
 <br>
