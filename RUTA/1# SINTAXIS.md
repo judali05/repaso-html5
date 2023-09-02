@@ -60,10 +60,10 @@ html ordena mediante marcadores semánticos haciendo que se diferencie clarament
 ~~~
 
 <br>
+<br>
 
 > [!IMPORTANT]
 >`Comentario` <br>
 >En este lenguaje un comentarios se escribe de la siguiente forma <br>
  `<!-- (Aquí va lo que se comente) -->`
-<br>
 <br>
