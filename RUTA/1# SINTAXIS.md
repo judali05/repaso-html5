@@ -66,4 +66,12 @@ html ordena mediante marcadores semánticos haciendo que se diferencie clarament
 >`Comentario` <br>
 >En este lenguaje un comentarios se escribe de la siguiente forma <br>
  `<!-- (Aquí va lo que se comente) -->`
+>  /$$   /$$ /$$$$$$$$ /$$      /$$ /$$      
+| $$  | $$|__  $$__/| $$$    /$$$| $$      
+| $$  | $$   | $$   | $$$$  /$$$$| $$      
+| $$$$$$$$   | $$   | $$ $$/$$ $$| $$      
+| $$__  $$   | $$   | $$  $$$| $$| $$      
+| $$  | $$   | $$   | $$\  $ | $$| $$      
+| $$  | $$   | $$   | $$ \/  | $$| $$$$$$$$
+|__/  |__/   |__/   |__/     |__/|________/
 <br>
