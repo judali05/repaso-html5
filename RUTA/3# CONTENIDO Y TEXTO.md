@@ -30,7 +30,7 @@ Las etiquetas de contenido son las que agrupan el contenido que hay en su interi
 </div>
 <br>
 
-## ELEMENTOS SEMANTICOS
+## ETIQUETAS SEMANTICAS
 Las etiquetas de texto son las que dan significado a los textos que contienen.
 
 <div align="center">
