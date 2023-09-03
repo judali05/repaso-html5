@@ -21,7 +21,15 @@ Es una caja de texto que puede contener los datos introducidos por los ususarios
 </div>
 <br>
 
+### ATRIBUTOS DEL FROM
 
+* `action` : Se usa para indica dónde se enviarán los datos del formulario para su procesamiento. Por lo general, se especifica la URL de un script del lado del servidor que se encargará de procesar los datos del formulario.
+* `method` : Tiene dos valores el GET o el POST y determina el método HTTP que se utilizará para enviar los datos del formulario al servidor. La diferencia principal radica en cómo se transmiten los datos.
+    * `GET` :  Información se envía de forma visible
+      > [!NOTE]
+      > Es la forma predeterminada si no se especifica el atributo method.
+      
+    * `POST` : Información se envía de forma no visible
 
 
 
