@@ -21,13 +21,9 @@ Las etiquetas de contenido son las que agrupan el contenido que hay en su interi
 <br>
 
 ### ATRIBUTOS MAS USADOS
-<div align="center">
-  
-| ATRIBUTO | DESCRIPCÓN |
-|---|---|
-| `id` |Se utiliza para identificar de manera única a un elemento.|
-|  `class` |Se utiliza para asignar uno o varias clases a un elemento HTML.|
-</div>
+
+* `id` : Se utiliza para identificar de manera única a un elemento.
+* `class` : Se utiliza para asignar uno o varias clases a un elemento HTML.
 <br>
 
 ## ETIQUETAS SEMANTICAS
