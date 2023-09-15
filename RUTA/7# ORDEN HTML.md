@@ -21,6 +21,12 @@ Son aquellos que ocupan sólo el espacio delimitado por las etiquetas que define
 </div>
 <br>
 
+## POSICIONAMIENTO ABSOLUTO Y RELATIVO
+Los elementos pueden estar posicionados de forma absoluta o relativa.
+
+* Posicionamiento absoluto: el elemento siempre se encuentra en el mismo lugar.
+* Posicionamiento relativo --: el elemento se posiciona según otros elementos.
+
 
 
 
