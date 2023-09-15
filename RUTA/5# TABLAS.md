@@ -8,10 +8,10 @@ Las tablas de contenido nos permiten almacenar los datos de forma ordenada.
 | ETIQUETAS |	DESCRIPCIÓN |
 |---|---|
 | `<table>` |	Define la tabla. |
-| `<caption>` |	Título de una tabla. |
-| `<tr>` | 	Representa una fila de celdas en una tabla. |
-| `<td>` |	Representa una celda de datos en una tabla. |
-| `<th>` |	Representa el encabezado de una tabla. |
+| `<caption>` |	Este indica el titulo que posee la tabla. |
+| `<tr>` | 	Define toda una fila de una celda que posee una tabla. |
+| `<td>` |	Define una celda en especifico de una tabla. |
+| `<th>` |	Define la funcion de definir cual sera el encabezado que posee una celda en especifico. |
 | `<colgroup>` |	Representa un conjunto de una o más columnas de una tabla. |
 | `<col>` |	Representa una columna de una tabla. |
 </div>
