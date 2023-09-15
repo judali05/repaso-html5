@@ -1,4 +1,4 @@
-# TABLAS
+# 	:newspaper: TABLAS
 Las tablas de contenido nos permiten almacenar los datos de forma ordenada.
 
 ## ETIQUETAS PARA TABLAS
