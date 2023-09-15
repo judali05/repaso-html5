@@ -20,6 +20,8 @@ Al crear una página web muy larga y con muchos apartados, es útil crear cierto
 <a href="#(nombre del marcador)"> MARCADOR </a>
 ~~~
 
+<br>
+
 > [!NOTE]
 > Puede contener un texto, una imagen o incluso podemos dejarla en blanco.
 
