@@ -1,0 +1,2 @@
+# ORDEN HTML
+En el proceso de maquetación de una web es necesario organizar elementos tales como imágenes, textos o tablas. Tal y como vimos en el punto de la evolución de la web, en un primer momento los elementos de una página web se organizaban en tablas. En ese momento no había ni hojas de estilo CSS ni ninguna otra herramienta que nos permitiera poner varios elementos seguidos uno detrás del otro.
