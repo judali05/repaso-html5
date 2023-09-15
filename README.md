@@ -1,4 +1,4 @@
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-html5-41-1175209.png" style="width: 100px; height: 100px; margin: 2px;" align="left" >
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-html5-41-1175209.png" style="width: 120px; height: 120px; margin: 2px;" align="left" >
 
 <div align="center"><h1> :beginner: CURSO DE HTML5 :beginner: </h1></div>
 
