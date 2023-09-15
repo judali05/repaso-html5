@@ -14,20 +14,14 @@ El contenido multimedia se utiliza para mostrar recursos externos como, por ejem
 ### ATRIBUTOS IMG
 Los atributos más comunes en las etiquetas de imagen HTML son las siguientes:
 
-`src` : especifica la ruta o URL de la imagen.
-`alt` : proporciona texto alternativo que se muestra si la imagen no se puede cargar.
-`title` : proporciona texto descriptivo que se muestra al pasar el cursor sobre la imagen.
-`width` : especifica el ancho de la imagen en píxeles o como un porcentaje del ancho disponible.
-`height` : especifica la altura de la imagen en píxeles o como un porcentaje de la altura disponible.
-`border` : especifica el ancho del borde alrededor de la imagen.
-`align` : especifica la alineación de la imagen con respecto al texto circundante. Valores: left | right| middle| top| bottom
+* `src` : especifica la ruta o URL de la imagen.
+* `alt` : proporciona texto alternativo que se muestra si la imagen no se puede cargar.
+* `title` : proporciona texto descriptivo que se muestra al pasar el cursor sobre la imagen.
+* `width` : especifica el ancho de la imagen en píxeles o como un porcentaje del ancho disponible.
+* `height` : especifica la altura de la imagen en píxeles o como un porcentaje de la altura disponible.
+* `border` : especifica el ancho del borde alrededor de la imagen.
+* `align` : especifica la alineación de la imagen con respecto al texto circundante. Valores: left | right| middle| top| bottom
 
-
-
-
-
-
-
-
-
+<br>
+<br>
 
