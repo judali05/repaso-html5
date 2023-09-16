@@ -1,5 +1,5 @@
 # :pushpin: CONTENIDO Y TEXTO
-En este apartado vamos a ver las etiquetas que agrupan el contenido y las etiquetas que contienen fragmentos de texto 
+las etiquetas que agrupan el contenido y las etiquetas que contienen fragmentos de texto. 
 
 ## ETIQUETAS DE CONTENIDO
 Las etiquetas de contenido son las que agrupan el contenido que hay en su interior:
@@ -8,15 +8,15 @@ Las etiquetas de contenido son las que agrupan el contenido que hay en su interi
   
 | ELEMENTOS	| DESCRIPCIÓN |
 |---|--|
-| `<p>`	| Define una parte que debe mostrarse como un párrafo. |
+| `<p>`	| Define una parte que debe mostrarse como un párrafo o agregar texto. |
 | `<hr>` |	Representa un cambio temático entre párrafos. Suele representar una línea horizontal. |
 | `<blockquote>` |	Representa un contenido citado desde otra fuente. |
 | `<ol>` |	Especifica una lista ordenada de elementos. |
-| `<ul>` |	Determina una lista de elementos sin orden. |
+| `<ul>` |	Determina una lista sin orden de elementos. |
 | `<li>` |	Define un elemento de una lista. |
 | `<figure>` |	Establece una figura ilustrada como parte  del documento. |
 | `<figcaption>` |	Representa la leyenda de una figura. |
-| `<div>` |	Representa un contenedor genérico sin ningún significado especial. |
+| `<div>` |	Representa un contenedor genérico sin ningún significado especial como una caja para guardar elementos. |
 </div>
 <br>
 
@@ -48,5 +48,7 @@ Las etiquetas de texto son las que dan significado a los textos que contienen.
 | `<spam>` | nos ayuda a aplicar estilos al texto o agrupar elementos en linea. |
 | `<br>` | nos ayuda a dra un salto de linea en el documento. |
 </div>
+
+<br>
 <br>
 
