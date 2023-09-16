@@ -1,5 +1,5 @@
 # 	:book: ORDEN HTML
-En el proceso de maquetación de una web es necesario organizar tiene una forma de organizar ciertos en textos o tablas.
+En el proceso de maquetación de una web es necesario organizar de forma correcta las diferentes etiquetas textos, tablas, formularios entre otras, teniendo en cuenta que hay dos tipos de etiquetas en bloque o en linea.
 
 ## ELEMENTOS EN BLOQUE O BLOCK
 Son aquellos que ocupan todo el ancho de su contenedor o elemento padre como el `<div>` , `<table>` , `<list>` , etc.
