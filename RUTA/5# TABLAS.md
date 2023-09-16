@@ -15,32 +15,7 @@ Las tablas de contenido nos permiten almacenar los datos de forma ordenada.
 | `<colgroup>` |	Representa un conjunto de una o más columnas de una tabla. |
 | `<col>` |	Representa una columna de una tabla. |
 </div>
+
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
