@@ -1,8 +1,8 @@
 # :file_folder: ELEMENTOS ESTRUCTURALES
 Los elementos que componen la estructura básica que se ha planteado en el punto anterior y otros componentes que puede contener una página web.
-* <a href="1">ELEMENTOS INICIALIES</a>
-* <a href="2">ELEMENTOS PARA METADATOS</a>
-* <a href="3">ELEMENTOS DE SECCIONES</a>
+* <a href="#1">ELEMENTOS INICIALIES</a>
+* <a href="#2">ELEMENTOS PARA METADATOS</a>
+* <a href="#3">ELEMENTOS DE SECCIONES</a>
 <br>
 
 <a name="1"><h1>ELEMENTOS INICIALES</h1></a>
