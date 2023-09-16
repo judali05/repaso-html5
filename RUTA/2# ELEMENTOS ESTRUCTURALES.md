@@ -1,11 +1,11 @@
 # :file_folder: ELEMENTOS ESTRUCTURALES
-En este punto se detalla de forma resumida los elementos que componen la estructura básica que se ha planteado en el punto anterior y otros componentes que puede contener una página web.
-* ELEMENTOS INICIALIES
-* ELEMENTOS PARA METADATOS
-* ELEMENTOS DE SECCIONES
+Los elementos que componen la estructura básica que se ha planteado en el punto anterior y otros componentes que puede contener una página web.
+* <a href="1">ELEMENTOS INICIALIES</a>
+* <a href="2">ELEMENTOS PARA METADATOS</a>
+* <a href="3">ELEMENTOS DE SECCIONES</a>
 <br>
 
-## ELEMENTOS INICIALES
+<a name="1"><h1>ELEMENTOS INICIALES</h1></a>
 ### `< !DOCTYPE html >`
 Permite que los navegadores comprendan que el documento se basa en HTML5.
 ~~~
@@ -20,10 +20,10 @@ Esta es la etiqueta de apertura y cierre de un documento HTML, los elementos que
 </html>
 ~~~
 <br>
+<br>
+<br>
 
-***
-
-## ELEMENTOS PARA METADATOS
+<a name="2"><h1>ELEMENTOS PARA METADATOS</h1></a> 
 ### `< head >< /head >`
 En esta etiqueta es donde se ubican los metadatos en el documento con enlacesa, la cual solo es visible para los navegadores.
 ~~~
@@ -88,10 +88,10 @@ Funciona para agregar documentación css y se aplique en el documento.
 </html>
 ~~~
 <br>
+<br>
+<br>
 
-***
-
-## ELEMENTOS DE SECCIONES
+<a name="3"><h1>ELEMENTOS DE SECCIONES</h1></a> 
 ### `< boby >< /boby >`
 Donde se ubica el contenido de el documento.
 ~~~
@@ -102,7 +102,7 @@ Donde se ubica el contenido de el documento.
 </html>
 ~~~
 ### `< header >< /header >`
-En este se coloca todo lo de la cabecera de el documento como el logo, nombre de la web o el menú.
+En este se coloca todo lo de la cabecera de el documento como el logo, titulo de la web o el menú.
 ~~~
 <!DOCTYPE html>
 <html>
@@ -243,6 +243,7 @@ Represente el contenido que ira en el pie de pagina del documento.
     </body>
 </html>
 ~~~
+
 
 <br>
 <br>
