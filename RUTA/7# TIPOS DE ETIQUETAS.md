@@ -29,3 +29,9 @@ Los elementos pueden estar posicionados de forma absoluta o relativa.
 
 <br>
 <br>
+
+<div align="center">
+  
+  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/6%23%20ELEMENTOS%20MULTIMEDIA.md)  ||  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/8%23%20MARCADORES.md)
+  
+</div>
