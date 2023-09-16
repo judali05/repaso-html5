@@ -73,6 +73,12 @@ El artributo type de los inputs especifican el tipo de datos que se ingresa en u
 | `color` | Control para especificar un color; abre un selector de colores cuando está activo. |
 | `url`	| Nos permite ingresar una URL. |
 </div>
+
 <br>
 <br>
 
+<div align="center">
+  
+  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/3%23%20CONTENIDO%20Y%20TEXTO.md)  ||  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/5%23%20TABLAS.md)
+  
+</div>
