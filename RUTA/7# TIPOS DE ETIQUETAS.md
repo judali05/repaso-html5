@@ -27,27 +27,5 @@ Los elementos pueden estar posicionados de forma absoluta o relativa.
 * Posicionamiento absoluto: el elemento siempre se encuentra en el mismo lugar.
 * Posicionamiento relativo --: el elemento se posiciona según otros elementos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
