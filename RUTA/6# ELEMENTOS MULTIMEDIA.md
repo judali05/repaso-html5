@@ -25,3 +25,8 @@ Los atributos más comunes en las etiquetas de imagen HTML son las siguientes:
 <br>
 <br>
 
+<div align="center">
+  
+  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/5%23%20TABLAS.md)  ||  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/7%23%20TIPOS%20DE%20ETIQUETAS.md)
+  
+</div>
