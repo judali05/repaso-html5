@@ -46,3 +46,9 @@ Al crear una página web muy larga y con muchos apartados, es útil crear cierto
 
 <br>
 <br>
+
+<div align="center">
+  
+  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/7%23%20TIPOS%20DE%20ETIQUETAS.md)
+  
+</div>
