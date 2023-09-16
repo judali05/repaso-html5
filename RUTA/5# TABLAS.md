@@ -19,3 +19,8 @@ Las tablas de contenido nos permiten almacenar los datos de forma ordenada.
 <br>
 <br>
 
+<div align="center">
+  
+  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/4%23%20FORMULARIO.md)  ||  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/6%23%20ELEMENTOS%20MULTIMEDIA.md)
+  
+</div>
