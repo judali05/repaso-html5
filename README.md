@@ -13,7 +13,7 @@
 ### - [4# FORMULARIO](https://github.com/judali05/HTML-5/blob/main/RUTA/4%23%20FORMULARIO.md)
 ### - [5# TABLAS](https://github.com/judali05/HTML-5/blob/main/RUTA/5%23%20TABLAS.md)
 ### - [6# ELEMENTOS MULTIMEDIA](https://github.com/judali05/HTML-5/blob/main/RUTA/6%23%20ELEMENTOS%20MULTIMEDIA.md)
-### - [7# TIPOS DE ETIQUETAS](https://github.com/judali05/HTML-5/blob/main/RUTA/7%23%20ORDEN.md)
+### - [7# TIPOS DE ETIQUETAS](https://github.com/judali05/HTML-5/blob/main/RUTA/7%23%20TIPOS%20DE%20ETIQUETAS.md)
 ### - [8# MARCADORES](https://github.com/judali05/HTML-5/blob/main/RUTA/8%23%20MARCADORES.md)
 ### - [9# FACTORES CLAVE HTML](https://github.com/judali05/HTML-5/blob/main/RUTA/9%23%20FACTORES%20CLAVE%20HTML.md)
 <br>
