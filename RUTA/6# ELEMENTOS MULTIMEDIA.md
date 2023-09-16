@@ -1,5 +1,5 @@
 # 	:movie_camera: ELEMENTOS MULTIMEDIA
-El contenido multimedia se utiliza para mostrar recursos externos como, por ejemplo, mapas, previsiones meteorológicas, fórmulas matemáticas, vídeos y audios, entre otros.
+El contenido multimedia se utiliza para mostrar recursos externos como, por ejemplo, video, audio, mapas, predicciones meteorológicas, fórmulas matemáticas entre otros.
 
 ## ETIQUETAS MULTIMEDIA
 | ETIQUETAS | DESCRIPCIÓN |
@@ -20,7 +20,7 @@ Los atributos más comunes en las etiquetas de imagen HTML son las siguientes:
 * `width` : especifica el ancho de la imagen en píxeles o como un porcentaje del ancho disponible.
 * `height` : especifica la altura de la imagen en píxeles o como un porcentaje de la altura disponible.
 * `border` : especifica el ancho del borde alrededor de la imagen.
-* `align` : especifica la alineación de la imagen con respecto al texto circundante. Valores: left | right| middle| top| bottom
+* `align` : especifica la alineación de la imagen con respecto al texto circundante. Valores: left, right, middle, top, bottom.
 
 <br>
 <br>
