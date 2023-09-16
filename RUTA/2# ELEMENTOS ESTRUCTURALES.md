@@ -247,3 +247,9 @@ Represente el contenido que ira en el pie de pagina del documento.
 
 <br>
 <br>
+
+<div align="center">
+  
+  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/1%23%20SINTAXIS.md)  ||  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/3%23%20CONTENIDO%20Y%20TEXTO.md)
+  
+</div>
