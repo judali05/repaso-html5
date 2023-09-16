@@ -1,10 +1,10 @@
 # :mag_right: SINTAXIS 
-La etiqueta presenta frecuentemente dos partes, su apertura y cierre, y se encierran ambas partes entre símbolos "menor que" y "mayor que".
+La etiquetaS en html presenta frecuentemente dos partes, su elemento de apertura y su elemento de cierre, estas estan dentor de los símbolos "menor que" y "mayor que".
 <br>
 
 | APERTURA  | CIERRE |
 |---|---|
-|El inicio de una etiqueta se produce de la siguiente manera:<div align="center"> `<etiqueta>`</div> |El final de una etiqueta se produce de manera similar a su apertura, aunque agregando una barra:<div align="center"> `</etiqueta>` </div> |
+| El elemento de apertura se realiza de la siguiente manera:<div align="center"> `<etiqueta>`</div><br> El 'menor que' el nombre de la etiqueta y 'mayor que'. | El elemento de cierre se realiza de la siguiente manera:<div align="center"> `</etiqueta>` </div><br> El 'menor que' una barra el nombre de la etiqueta y 'mayor que'. |
 
 
 <br>
@@ -12,7 +12,7 @@ La etiqueta presenta frecuentemente dos partes, su apertura y cierre, y se encie
 ***
 
 ## ESTRUCCTURA BÁSICA
-Una de las principales ventajas de HTML5 es la inclusión de elementos semánticos, o marcados semánticos, que nos ayudan a definir las distintas divisiones de una página web.
+Una de las principales ventajas de HTML5 es la inclusión de elementos semánticos, o marcados semánticos, estos nos ayudan a definir la distribución de una página web.
 <br>
 <div align="center">
 
@@ -20,7 +20,7 @@ Una de las principales ventajas de HTML5 es la inclusión de elementos semántic
   
 </div>
 <br>
-html ordena mediante marcadores semánticos haciendo que se diferencie claramente el contenido que referencia cada etiqueta.
+html ordena mediante marcadores semánticos haciendo que se diferencie claramente el contenido de cada etiqueta.
 <br>
 <br>
 
@@ -64,6 +64,6 @@ html ordena mediante marcadores semánticos haciendo que se diferencie clarament
 
 > [!IMPORTANT]
 >`Comentario` <br>
->En este lenguaje un comentarios se escribe de la siguiente forma <br>
+>En este lenguaje los comentarios se escribe de la siguiente forma <br>
 >`<!-- (Aquí va lo que se comente) -->`
 <br>
