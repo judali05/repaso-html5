@@ -8,7 +8,7 @@ Es una caja de texto que puede contener los datos introducidos por los ususarios
 | ELEMENTO | DESCRIPCIÓN |
 |---|---|
 | `<form>` | esta es la etiqueta de inicio y cierre de un formulario. |
-| `<fieldset>` | permite organizar en grupos loa campos de un formulario. |
+| `<fieldset>` | permite organizar en grupos los campos de un formulario. |
 | `<legend>` | esta define el titulo de la etiqueta < fieldset >. |
 | `<label>` | define el titulo de un control del formulario. |
 | `<input>` | se usa para crear controles interactivos en el formulario. |
@@ -23,9 +23,9 @@ Es una caja de texto que puede contener los datos introducidos por los ususarios
 
 ### ATRIBUTOS DEL FROM
 
-* `action` : Se usa para indica dónde se enviarán los datos del formulario para su procesamiento. Por lo general, se especifica la URL de un script del lado del servidor que se encargará de procesar los datos del formulario.
+* `action` : Se usa para indica dónde se enviarán los datos del formulario para que se puedan guardar. Por lo general, se especifica la URL de un script del lado del servidor que se encargará de procesar los datos del formulario.
 * `method` : Tiene dos valores el GET o el POST y determina el método HTTP que se utilizará para enviar los datos del formulario al servidor. La diferencia principal radica en cómo se transmiten los datos.
-    * `GET` :  Información se envía de forma visible
+    * `GET` :  Información se envía de forma visible.
       > [!NOTE]
       > Es la forma predeterminada si no se especifica el atributo method.
 
@@ -39,7 +39,7 @@ Es una caja de texto que puede contener los datos introducidos por los ususarios
 
 | ATRIBUTOS |	DESCRIPCIÓN |
 |---|---|
-| `type`	| Da el tipo de input  como de contraseña, correo, fechas etc. |
+| `type`	| Da el tipo de input  como de texto, contraseña, correo, fechas etc. |
 | `value`	| Valor inicial del input. |
 | `placeholder` |	Describe el valor esperado en un campo. |
 | `required` |	Especifica que es obligatorio rellenar el campo el input.| 
