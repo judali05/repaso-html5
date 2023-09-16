@@ -66,4 +66,11 @@ html ordena mediante marcadores semánticos haciendo que se diferencie clarament
 >`Comentario` <br>
 >En este lenguaje los comentarios se escribe de la siguiente forma <br>
 >`<!-- (Aquí va lo que se comente) -->`
+
 <br>
+<br>
+<div align="center">
+  
+##  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/2%23%20ELEMENTOS%20ESTRUCTURALES.md)
+  
+</div>
