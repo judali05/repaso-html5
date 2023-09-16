@@ -52,3 +52,8 @@ Las etiquetas de texto son las que dan significado a los textos que contienen.
 <br>
 <br>
 
+<div align="center">
+  
+  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/2%23%20ELEMENTOS%20ESTRUCTURALES.md)  ||  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/4%23%20FORMULARIO.md)
+  
+</div>
