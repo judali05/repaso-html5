@@ -6,7 +6,7 @@
 
 #### :white_check_mark: Este repositorio es un breve repaso para ir adquiriendo nuevo conocimiento de HTML (HyperText Markup Language) en español. Este lenguaje de marcado consiste en una serie de elementos que sirven para cerrar, delimitar o marcar el contenido del documento, haciéndolo aparecer de cierta manera o actuar de diferentes formas para facilitar la comprensión :bookmark_tabs:.    
 
-<br><br>
+<br>
 
 ## :beginner: RUTA :beginner:
 
