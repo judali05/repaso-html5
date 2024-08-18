@@ -8,6 +8,11 @@
 
 <br>
 
+semantica
+seo
+layouts
+accesibilidad
+
 ## :beginner: RUTA :beginner:
 
 - [1# SINTAXIS](https://github.com/judali05/HTML-5/blob/main/RUTA/1%23%20SINTAXIS.md)
