@@ -4,18 +4,29 @@
 </div>
 
 <img src="https://github.com/judali05/HTML-5/blob/main/html_logo.png"
-     style="width: 63px; height: 72px;" align="left">
+     style="width: 55px; height: 72px;" align="left">
 
 # Repaso HTML5
 
-### Este repositorio es un breve repaso para ir adquiriendo nuevo conocimiento de HTML (HyperText Markup Language) en español. Este lenguaje de marcado consiste en una serie de elementos que sirven para cerrar, delimitar o marcar el contenido del documento, haciéndolo aparecer de cierta manera o actuar de diferentes formas para facilitar la comprensión 
+Este repositorio contiene notas, ejercicios y proyectos pequeños para ir adquiriendo nuevo conocimiento de HTML (HyperText Markup Language) en español. Este lenguaje de marcado consiste en una serie de elementos que sirven para cerrar, delimitar o marcar el contenido del documento, haciéndolo aparecer de cierta manera o actuar de diferentes formas para facilitar la comprensión.
 
-<br>
+## 📂 Estructura
+* `/notas` → Conceptos teóricos y estructura del lenguaje.
+* `/ejercicios` → Pequeños desafíos para practicar etiquetas y elementos.
+* `/proyectos` → Mini-proyectos para aplicar lo aprendido.
+  
+## 📌 Temas cubiertos
+* Estructura básica de HTML
+* Etiquetas semánticas
+* Formularios y validaciones
+* Enlaces e imágenes
+* Tablas y listas  
 
-semantica
-seo
-layouts
-accesibilidad
+## tener en cuenta mas adelante
+* semantica
+* seo
+* layouts
+* accesibilidad
 
 ## :beginner: RUTA :beginner:
 
