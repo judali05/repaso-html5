@@ -1,38 +1,36 @@
-# 📂 ELEMENTOS ESTRUCTURALES
+# 📂 ELEMENTOS ESTRUCTURALES  
 
-Los elementos que componen la estructura básica de una página web incluyen los siguientes:
+Los elementos estructurales de una página web forman la base del documento HTML. Aquí encontrarás los principales:  
 
-- [ELEMENTOS INICIALES](#elementos-iniciale)
-- [ELEMENTOS PARA METADATOS](#elementos-para-metadatos)
-- [ELEMENTOS DE SECCIONES](#elementos-de-secciones)
+- [🏁 ELEMENTOS INICIALES](#-elementos-iniciales)  
+- [📝 ELEMENTOS PARA METADATOS](#-elementos-para-metadatos)  
+- [📌 ELEMENTOS DE SECCIONES](#-elementos-de-secciones)  
+<br/> 
 
----
+## 🏁 ELEMENTOS INICIALES  
 
-## 🏁 ELEMENTOS INICIALES
-
-### `<!DOCTYPE html>`
-Define que el documento sigue el estándar HTML5.
+### `<!DOCTYPE html>`  
+Indica que el documento sigue el estándar HTML5.  
 
 ```html
 <!DOCTYPE html>
-```
+```  
 
-### `<html></html>`
-Etiqueta que encierra todo el contenido de la página web.
+### `<html></html>`  
+Define el inicio y fin del documento HTML.  
 
 ```html
 <!DOCTYPE html>
 <html>
 
 </html>
-```
+```  
+<br/>
 
----
+## 📝 ELEMENTOS PARA METADATOS  
 
-## 📝 ELEMENTOS PARA METADATOS
-
-### `<head></head>`
-Contiene metadatos e información del documento.
+### `<head></head>`  
+Contiene información sobre el documento, como enlaces a estilos y scripts.  
 
 ```html
 <!DOCTYPE html>
@@ -41,35 +39,34 @@ Contiene metadatos e información del documento.
 
     </head>
 </html>
-```
+```  
 
-### `<title></title>`
-Define el título que aparece en la pestaña del navegador.
+### `<title></title>`  
+Define el título que aparece en la pestaña del navegador.  
 
 ```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Título del documento</title>
+        <title>Mi Página Web</title>
     </head>
 </html>
-```
+```  
 
-### `<link>`
-Incorpora recursos externos como hojas de estilo CSS.
+### `<link>`  
+Vincula archivos externos, como hojas de estilo CSS.  
 
 ```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Título del documento</title>
         <link rel="stylesheet" href="styles.css">
     </head>
 </html>
-```
+```  
 
-### `<meta>`
-Proporciona información sobre el documento.
+### `<meta>`  
+Proporciona información sobre la codificación y configuración del documento.  
 
 ```html
 <!DOCTYPE html>
@@ -77,13 +74,12 @@ Proporciona información sobre el documento.
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Título del documento</title>
     </head>
 </html>
-```
+```  
 
-### `<style></style>`
-Permite escribir código CSS dentro del mismo archivo HTML.
+### `<style></style>`  
+Permite agregar estilos CSS directamente en el documento.  
 
 ```html
 <!DOCTYPE html>
@@ -96,17 +92,16 @@ Permite escribir código CSS dentro del mismo archivo HTML.
         </style>
     </head>
     <body>
-        <p>Hola</p>
+        <p>Hola, mundo</p>
     </body>
 </html>
-```
+```  
+<br/> 
 
----
+## 📌 ELEMENTOS DE SECCIONES  
 
-## 📌 ELEMENTOS DE SECCIONES
-
-### `<body></body>`
-Contiene el contenido visible de la página web.
+### `<body></body>`  
+Contiene el contenido visible de la página.  
 
 ```html
 <!DOCTYPE html>
@@ -114,10 +109,10 @@ Contiene el contenido visible de la página web.
     <body>
     </body>
 </html>
-```
+```  
 
-### `<header></header>`
-Incluye la cabecera de la página, como el logo y el título.
+### `<header></header>`  
+Sección superior que suele contener el logo, título y menú de navegación.  
 
 ```html
 <!DOCTYPE html>
@@ -128,10 +123,10 @@ Incluye la cabecera de la página, como el logo y el título.
         </header>
     </body>
 </html>
-```
+```  
 
-### `<nav></nav>`
-Contiene enlaces de navegación dentro del sitio.
+### `<nav></nav>`  
+Contiene enlaces de navegación para moverse dentro del sitio.  
 
 ```html
 <!DOCTYPE html>
@@ -140,31 +135,31 @@ Contiene enlaces de navegación dentro del sitio.
         <nav>
             <ul>
                 <li><a href="#">Inicio</a></li>
-                <li><a href="#">Sobre Nosotros</a></li>
+                <li><a href="#">Servicios</a></li>
                 <li><a href="#">Contacto</a></li>
             </ul>
         </nav>
     </body>
 </html>
-```
+```  
 
-### `<main></main>`
-Define el contenido principal de la página.
+### `<main></main>`  
+Contiene el contenido principal de la página.  
 
 ```html
 <!DOCTYPE html>
 <html>
     <body>
         <main>
-            <h1>Título del Tema</h1>
-            <p>Resumen del tema a tratar</p>
+            <h1>Bienvenido</h1>
+            <p>Esta es mi página de ejemplo.</p>
         </main>
     </body>
 </html>
-```
+```  
 
-### `<h1> - <h6>`
-Encabezados que estructuran el contenido.
+### `<h1> - <h6>`  
+Encabezados para organizar la jerarquía del contenido.  
 
 ```html
 <!DOCTYPE html>
@@ -173,51 +168,42 @@ Encabezados que estructuran el contenido.
         <h1>Título Principal</h1>
         <h2>Subtítulo</h2>
         <h3>Sección</h3>
-        <h4>Subsección</h4>
-        <h5>Detalle</h5>
-        <h6>Nota</h6>
     </body>
 </html>
-```
+```  
 
-### `<section></section>`
-Define secciones dentro de la página.
+### `<section></section>`  
+Define una sección dentro del documento.  
 
 ```html
 <!DOCTYPE html>
 <html>
     <body>
         <section>
-            <h1>Título de la Sección</h1>
-            <p>Contenido relevante de la sección.</p>
+            <h2>Sobre Nosotros</h2>
+            <p>Información sobre la empresa.</p>
         </section>
     </body>
 </html>
-```
+```  
 
-### `<article></article>`
-Representa un contenido independiente dentro de una sección.
+### `<article></article>`  
+Agrupa contenido independiente, como publicaciones de blog o noticias.  
 
 ```html
 <!DOCTYPE html>
 <html>
     <body>
-        <section>
-            <article>
-                <h1>Artículo 1</h1>
-                <p>Descripción del artículo.</p>
-            </article>
-            <article>
-                <h2>Artículo 2</h2>
-                <p>Más información aquí.</p>
-            </article>
-        </section>
+        <article>
+            <h2>Novedades</h2>
+            <p>¡Lanzamos un nuevo producto!</p>
+        </article>
     </body>
 </html>
-```
+```  
 
-### `<aside></aside>`
-Contiene información adicional o complementaria.
+### `<aside></aside>`  
+Contiene información complementaria, como barras laterales o anuncios.  
 
 ```html
 <!DOCTYPE html>
@@ -226,18 +212,18 @@ Contiene información adicional o complementaria.
         <main>
             <section>
                 <h1>Artículo Principal</h1>
-                <p>Texto principal.</p>
+                <p>Contenido principal de la página.</p>
             </section>
             <aside>
-                <p>Contenido adicional o anuncios.</p>
+                <p>Información adicional o publicidad.</p>
             </aside>
         </main>
     </body>
 </html>
-```
+```  
 
-### `<footer></footer>`
-Define el pie de página con información relevante.
+### `<footer></footer>`  
+Define el pie de página con información de contacto o derechos de autor.  
 
 ```html
 <!DOCTYPE html>
@@ -248,12 +234,4 @@ Define el pie de página con información relevante.
         </footer>
     </body>
 </html>
-```
-
----
-
-<div align="center">
-  
-📌 [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/1%23%20SINTAXIS.md) || [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/3%23%20CONTENIDO%20Y%20TEXTO.md)
-
-</div>
+```  
