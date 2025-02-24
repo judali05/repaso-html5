@@ -4,7 +4,7 @@
 </div>
 
 <img src="https://github.com/judali05/HTML-5/blob/main/html_logo.png"
-     style="width: 70px; height: 70px;" align="left">
+     style="width: 63px; height: 72px;" align="left">
 
 # Repaso HTML5
 
