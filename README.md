@@ -1,10 +1,14 @@
-<div align="center">
-  <h1> :beginner: CURSO DE HTML5 :beginner: </h1>
+<div align="right">
+  <img src="https://img.shields.io/badge/HTML-lenguaje de markado-ea4926?style=for-the-badge&logo=HTML5&labelColor=080808" 
+       alt="HTML - Aplicación">
 </div>
 
-<img src="https://github.com/judali05/HTML-5/blob/main/html_logo.png" width="120" height="120" style="margin: 2px;" align="left">
+<img src="https://github.com/judali05/HTML-5/blob/main/html_logo.png"
+     style="width: 70px; height: 70px;" align="left">
 
-### :white_check_mark: Este repositorio es un breve repaso para ir adquiriendo nuevo conocimiento de HTML (HyperText Markup Language) en español. Este lenguaje de marcado consiste en una serie de elementos que sirven para cerrar, delimitar o marcar el contenido del documento, haciéndolo aparecer de cierta manera o actuar de diferentes formas para facilitar la comprensión :bookmark_tabs:
+# Repaso HTML5
+
+### Este repositorio es un breve repaso para ir adquiriendo nuevo conocimiento de HTML (HyperText Markup Language) en español. Este lenguaje de marcado consiste en una serie de elementos que sirven para cerrar, delimitar o marcar el contenido del documento, haciéndolo aparecer de cierta manera o actuar de diferentes formas para facilitar la comprensión 
 
 <br>
 
