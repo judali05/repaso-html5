@@ -1,255 +1,259 @@
-# :file_folder: ELEMENTOS ESTRUCTURALES
-Los elementos que componen la estructura básica que se ha planteado en el punto anterior y otros componentes que puede contener una página web.
-* <a href="#1">ELEMENTOS INICIALIES</a>
-* <a href="#2">ELEMENTOS PARA METADATOS</a>
-* <a href="#3">ELEMENTOS DE SECCIONES</a>
-<br>
+# 📂 ELEMENTOS ESTRUCTURALES
 
-<a name="1"><h1>ELEMENTOS INICIALES</h1></a>
-### `< !DOCTYPE html >`
-Permite que los navegadores comprendan que el documento se basa en HTML5.
-~~~
+Los elementos que componen la estructura básica de una página web incluyen los siguientes:
+
+- [ELEMENTOS INICIALES](#elementos-iniciale)
+- [ELEMENTOS PARA METADATOS](#elementos-para-metadatos)
+- [ELEMENTOS DE SECCIONES](#elementos-de-secciones)
+
+---
+
+## 🏁 ELEMENTOS INICIALES
+
+### `<!DOCTYPE html>`
+Define que el documento sigue el estándar HTML5.
+
+```html
 <!DOCTYPE html>
-~~~
-### `< html >< /html >`
-Esta es la etiqueta de apertura y cierre de un documento HTML, los elementos que se agregen deben estar dentro de dichas etiquetas.
-~~~
+```
+
+### `<html></html>`
+Etiqueta que encierra todo el contenido de la página web.
+
+```html
 <!DOCTYPE html>
 <html>
 
 </html>
-~~~
-<br>
-<br>
-<br>
+```
 
-<a name="2"><h1>ELEMENTOS PARA METADATOS</h1></a> 
-### `< head >< /head >`
-En esta etiqueta es donde se ubican los metadatos en el documento con enlacesa, la cual solo es visible para los navegadores.
-~~~
+---
+
+## 📝 ELEMENTOS PARA METADATOS
+
+### `<head></head>`
+Contiene metadatos e información del documento.
+
+```html
 <!DOCTYPE html>
 <html>
     <head>
 
     </head>
 </html>
-~~~
-### `< title >< /title >`
-Define el titulo de la web.
-~~~
+```
+
+### `<title></title>`
+Define el título que aparece en la pestaña del navegador.
+
+```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Titulo del documento</title>
+        <title>Título del documento</title>
     </head>
 </html>
-~~~
-### `< link >`
-La etiqueta incorpora recursos que son externos a el documento.
-~~~
+```
+
+### `<link>`
+Incorpora recursos externos como hojas de estilo CSS.
+
+```html
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Titulo del documento</title>
-        <link href="styles.css">
+        <title>Título del documento</title>
+        <link rel="stylesheet" href="styles.css">
     </head>
 </html>
-~~~
-### `< meta >` 
-Sirve para aportar informacion sobre el documento.
-~~~
+```
+
+### `<meta>`
+Proporciona información sobre el documento.
+
+```html
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <title>Titulo del documento</title>
-        <link href="styles.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Título del documento</title>
     </head>
 </html>
-~~~
-### `< style >< /style >`
-Funciona para agregar documentación css y se aplique en el documento.
-~~~
+```
+
+### `<style></style>`
+Permite escribir código CSS dentro del mismo archivo HTML.
+
+```html
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="utf-8">
-        <title>Titulo del documento</title>
-        <link href="styles.css">
         <style>
-             p {
-              text-align: center;
+            p {
+                text-align: center;
             }
-          </style>
+        </style>
     </head>
     <body>
-        <p>hola</p>
+        <p>Hola</p>
     </body>
 </html>
-~~~
-<br>
-<br>
-<br>
+```
 
-<a name="3"><h1>ELEMENTOS DE SECCIONES</h1></a> 
-### `< boby >< /boby >`
-Donde se ubica el contenido de el documento.
-~~~
+---
+
+## 📌 ELEMENTOS DE SECCIONES
+
+### `<body></body>`
+Contiene el contenido visible de la página web.
+
+```html
 <!DOCTYPE html>
 <html>
     <body>
     </body>
 </html>
-~~~
-### `< header >< /header >`
-En este se coloca todo lo de la cabecera de el documento como el logo, titulo de la web o el menú.
-~~~
+```
+
+### `<header></header>`
+Incluye la cabecera de la página, como el logo y el título.
+
+```html
 <!DOCTYPE html>
 <html>
     <body>
         <header>
-            
+            <h1>Mi Sitio Web</h1>
         </header>
     </body>
 </html>
-~~~
-### `< nav >< /nav >`
-Es un elemento contenedor para enlaces de navegacion, que se supone proveen formas de acceder a las secciones del sitio web.
-~~~
+```
+
+### `<nav></nav>`
+Contiene enlaces de navegación dentro del sitio.
+
+```html
 <!DOCTYPE html>
 <html>
     <body>
-        <header>
-            <nav class="menú">
-                <ul>
-                  <li>Inicio</li>
-                  <li>Sobre nosotros</li>
-                  <li>Contacto</li>
-                </ul>
-              </nav>
-        </header>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Sobre Nosotros</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
     </body>
 </html>
-~~~
-### `< main >< /main >`
-Reprecenta el contenido principal  que esta directamente relacionado.
-~~~
+```
+
+### `<main></main>`
+Define el contenido principal de la página.
+
+```html
 <!DOCTYPE html>
 <html>
     <body>
-        <header>
-        </header>
         <main>
-            <h1>Titulo del tema</h1>
-            <p>resumen del tema a tratar</p>
+            <h1>Título del Tema</h1>
+            <p>Resumen del tema a tratar</p>
         </main>
     </body>
 </html>
-~~~
-### `< h1 > < h2 > < h3 > < h4 > < h5 > < h6 >`
-Estructura del encabezado o titulos para el contenido del documento
-~~~
+```
+
+### `<h1> - <h6>`
+Encabezados que estructuran el contenido.
+
+```html
 <!DOCTYPE html>
 <html>
     <body>
-        <header>
-        </header>
-        <main>
-            <h1>Titulo del tema</h1>
-            <section> 
-                    <h2>Subtitulo del tema</h2>
-                    <p>resumen del tema a tratar</p>
-            </section>
-        </main>
+        <h1>Título Principal</h1>
+        <h2>Subtítulo</h2>
+        <h3>Sección</h3>
+        <h4>Subsección</h4>
+        <h5>Detalle</h5>
+        <h6>Nota</h6>
     </body>
 </html>
-~~~
-### `< section >< /section>`
-Representa una sección de un documento, para determinar una parte del documento.
-~~~
+```
+
+### `<section></section>`
+Define secciones dentro de la página.
+
+```html
 <!DOCTYPE html>
 <html>
     <body>
-        <header>
-        </header>
+        <section>
+            <h1>Título de la Sección</h1>
+            <p>Contenido relevante de la sección.</p>
+        </section>
+    </body>
+</html>
+```
+
+### `<article></article>`
+Representa un contenido independiente dentro de una sección.
+
+```html
+<!DOCTYPE html>
+<html>
+    <body>
+        <section>
+            <article>
+                <h1>Artículo 1</h1>
+                <p>Descripción del artículo.</p>
+            </article>
+            <article>
+                <h2>Artículo 2</h2>
+                <p>Más información aquí.</p>
+            </article>
+        </section>
+    </body>
+</html>
+```
+
+### `<aside></aside>`
+Contiene información adicional o complementaria.
+
+```html
+<!DOCTYPE html>
+<html>
+    <body>
         <main>
             <section>
-                <h1>Titulo del tema</h1>
-                    <h2>Subtitulo del tema</h2>
-                    <p>resumen del tema a tratar</p>
+                <h1>Artículo Principal</h1>
+                <p>Texto principal.</p>
             </section>
-        </main>
-    </body>
-</html>
-~~~
-### `< article >< /article >`
-Representa un contenido independiente y autonomo.
-~~~
-<!DOCTYPE html>
-<html>
-    <body>
-        <header>
-        </header>
-        <main>
-        <section>
-            <article>
-                <h1>Titulo del tema</h1>
-                <p>resumen del tema a tratar</p>
-            </article>
-            <article>
-                <h2>Subtitulo del tema</h2>
-                <p>resumen del tema</p>
-            </article>
-        </section>
-        </main>
-    </body>
-</html>
-~~~
-### `< aside >< /aside >`
-Representa el contenido adicional o barra lateral del documento.
-~~~
-<!DOCTYPE html>
-<html>
-    <body>
-        <header>
-        </header>
-        <main>
-        <section>
-               <h1>Titulo del tema</h1>
-                <p>resumen del tema a tratar</p>
-        </section>
-        <section>
             <aside>
-                <p> texto adicional del tema </p>
+                <p>Contenido adicional o anuncios.</p>
             </aside>
-        </section>
         </main>
     </body>
 </html>
-~~~
-### `< footer >< /footer >`
-Represente el contenido que ira en el pie de pagina del documento.
-~~~
+```
+
+### `<footer></footer>`
+Define el pie de página con información relevante.
+
+```html
 <!DOCTYPE html>
 <html>
     <body>
-        <header>
-        </header>
-               <h1>Titulo del tema</h1>
-                <p>resumen del tema a tratar</p>
         <footer>
-            <p>informacion del creador de la pagina, empresa, datos personales, etc.</p>
+            <p>© 2024 Mi Sitio Web - Todos los derechos reservados</p>
         </footer>
     </body>
 </html>
-~~~
+```
 
-
-<br>
-<br>
+---
 
 <div align="center">
   
-  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/1%23%20SINTAXIS.md)  ||  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/3%23%20CONTENIDO%20Y%20TEXTO.md)
-  
+📌 [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/1%23%20SINTAXIS.md) || [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/3%23%20CONTENIDO%20Y%20TEXTO.md)
+
 </div>
