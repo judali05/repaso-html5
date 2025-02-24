@@ -6,7 +6,7 @@ Estas etiquetas agrupan y organizan el contenido dentro de una página web:
 
 <div align="center">
   
-| ELEMENTO | DESCRIPCIÓN |
+| **Elementos** | **Descripción** |
 |---|---|
 | `<p>` | Define un párrafo de texto. |
 | `<hr>` | Representa una separación temática entre secciones, visualmente suele mostrarse como una línea horizontal. |
@@ -30,7 +30,7 @@ Estas etiquetas proporcionan significado al contenido textual dentro de un docum
 
 <div align="center">
   
-| ELEMENTO | DESCRIPCIÓN |
+| **Elementos** | **Descripción** |
 |---|---|
 | `<a>` | Define un hipervínculo o enlace. |
 | `<em>` | Indica énfasis en el texto, generalmente mostrado en cursiva. |
