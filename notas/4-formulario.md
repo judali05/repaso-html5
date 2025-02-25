@@ -1,7 +1,7 @@
 # 📮 Formulario  
 Un formulario es un elemento que permite a los usuarios ingresar y enviar datos.  
 
-## 📝 Elementos De Formulario  
+## 📝 Elementos de Formulario  
 
 <div align="center">  
 
@@ -20,7 +20,7 @@ Un formulario es un elemento que permite a los usuarios ingresar y enviar datos.
 </div>  
 <br>  
 
-### ⚙️ Atributos De Formulario  
+### ⚙️ Atributos de Formulario  
 
 * `action` : Define la URL a la que se enviarán los datos del formulario para su procesamiento en el servidor.  
 * `method` : Determina el método HTTP utilizado para enviar los datos. Sus valores pueden ser:    
