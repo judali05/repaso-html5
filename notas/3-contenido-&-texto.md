@@ -1,7 +1,7 @@
 # 📌 Contenido & Texto
 Las siguientes etiquetas permiten estructurar el contenido y definir fragmentos de texto dentro de un documento HTML.
 
-## 📝 Etiquetas De Contenido
+## 📝 Etiquetas de Contenido
 Estas etiquetas agrupan y organizan el contenido dentro de una página web:
 
 <div align="center">
