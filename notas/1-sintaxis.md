@@ -1,4 +1,4 @@
-# 🔍 SINTAXIS  
+# 🔍 Sintaxis  
 
 Las etiquetas en HTML generalmente tienen dos partes:  
 1. **Elemento de apertura**  
@@ -8,13 +8,13 @@ Ambas partes están delimitadas por los símbolos "menor que" (`<`) y "mayor que
 
 ## 📌 Etiquetas en HTML  
 
-| **APERTURA** | **CIERRE** |
+| **Apertura** | **Cierre** |
 |-------------|-----------|
 | El elemento de apertura se escribe de la siguiente manera:  | El elemento de cierre se escribe de la siguiente manera:  |
 | `<etiqueta>`  | `</etiqueta>`  |
 | Se coloca el símbolo "menor que" (`<`), seguido del nombre de la etiqueta y luego el símbolo "mayor que" (`>`).  | Se coloca el símbolo "menor que" (`<`), seguido de una barra inclinada (`/`), el nombre de la etiqueta y el símbolo "mayor que" (`>`).  |
 
-## 📌 ESTRUCTURA BÁSICA  
+## 📌 Estructura Básica 
 
 Una de las principales ventajas de HTML5 es la inclusión de elementos semánticos.  
 Estos ayudan a definir la distribución de una página web, facilitando la diferenciación del contenido de cada etiqueta.  
