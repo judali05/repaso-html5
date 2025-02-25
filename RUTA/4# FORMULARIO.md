@@ -1,84 +1,79 @@
-# :postbox: FORMULARIO
-Es una caja de texto que puede contener los datos introducidos por los ususarios.
+# 📮 Formulario  
+Un formulario es un elemento que permite a los usuarios ingresar y enviar datos.  
 
-## ELEMENTOS DE FORMULARIOS
+## 📝 Elementos De Formulario  
 
-<div align="center">
-  
-| ELEMENTO | DESCRIPCIÓN |
-|---|---|
-| `<form>` | esta es la etiqueta de inicio y cierre de un formulario. |
-| `<fieldset>` | permite organizar en grupos los campos de un formulario. |
-| `<legend>` | esta define el titulo de la etiqueta < fieldset >. |
-| `<label>` | define el titulo de un control del formulario. |
-| `<input>` | se usa para crear controles interactivos en el formulario. |
-| `<button>` | define el boton de un formulario. |
-| `<select>` | permite seleccionar una serie de opciones que se encuentren en dicho fromulario. |
-| `<optgroup>` |	Representa un conjunto de opciones, agrupadas lógicamente. |
-| `<option>` | representa un item dentro de un < select >. |
-| `<textarea>` | define un campo para que el usuario ingrese un texto con una cantidad maxima en el formulario. |
-  
-</div>
-<br>
+<div align="center">  
 
-### ATRIBUTOS DEL FROM
+| **Elemento** | **Descripción** |  
+|---|---|  
+| `<form>` | Define el inicio y cierre de un formulario. |  
+| `<fieldset>` | Agrupa visualmente los campos de un formulario. |  
+| `<legend>` | Define el título de un `<fieldset>`. |  
+| `<label>` | Asigna un nombre descriptivo a un control del formulario. |  
+| `<input>` | Crea controles interactivos para la entrada de datos. |  
+| `<button>` | Representa un botón dentro del formulario. |  
+| `<select>` | Muestra un menú desplegable de opciones. |  
+| `<optgroup>` | Agrupa opciones dentro de un `<select>` para organizarlas lógicamente. |  
+| `<option>` | Define un elemento dentro de un `<select>`. |  
+| `<textarea>` | Permite la entrada de texto en varias líneas. |  
+</div>  
+<br>  
 
-* `action` : Se usa para indica dónde se enviarán los datos del formulario para que se puedan guardar. Por lo general, se especifica la URL de un script del lado del servidor que se encargará de procesar los datos del formulario.
-* `method` : Tiene dos valores el GET o el POST y determina el método HTTP que se utilizará para enviar los datos del formulario al servidor. La diferencia principal radica en cómo se transmiten los datos.
-    * `GET` :  Información se envía de forma visible.
-      > [!NOTE]
-      > Es la forma predeterminada si no se especifica el atributo method.
+### ⚙️ Atributos De Formulario  
 
-      <br>
-  
-    * `POST` : Información se envía de forma no visible, Es adecuado para enviar datos sensibles, como contraseñas o información personal.
-
-### ATRIBUTOS DEl INPUT
-
-<div align="center">
-
-| ATRIBUTOS |	DESCRIPCIÓN |
-|---|---|
-| `type`	| Da el tipo de input  como de texto, contraseña, correo, fechas etc. |
-| `value`	| Valor inicial del input. |
-| `placeholder` |	Describe el valor esperado en un campo. |
-| `required` |	Especifica que es obligatorio rellenar el campo el input.| 
-| `readonly` | El input es de solo lectura, el usuario no puede editar el control. |
-| `disabled`	| El input no se puede modificar,hace que el elemento no sea mutable, enfocable o incluso enviado con el formulario. |
-| `size`	| Cantidad de caracteres visibles en un input. Su valor por defecto es 20. Funciona en los inputs de los siguientes tipos: text,  search, tel, url, email, and password. |
-| `maxlength` 	| Máximo número de caracteres del input. |
-| `min` / `max`	| Mínimo y máximo número de caracteres del input. |
-| `pattern`	| Nos permite indicar un patrón,especifica una expresión regular que el valor del control de formulario debe coincidir. |
-</div>
-<br>
+* `action` : Define la URL a la que se enviarán los datos del formulario para su procesamiento en el servidor.  
+* `method` : Determina el método HTTP utilizado para enviar los datos. Sus valores pueden ser:    
+  * `GET` : Envía la información en la URL, lo que la hace visible en la barra de direcciones.
+  * `POST` : Envía los datos de forma oculta en el cuerpo de la solicitud, recomendado para información sensible.
+    
+> [!CAUTION]
+> Get es el método predeterminado si no se especifica.  
+  <br>  
 
 
-### VALOR DEL TYPE
-El artributo type de los inputs especifican el tipo de datos que se ingresa en un campo.
 
-<div align="center">
-  
-| VALOR	| DESCRIPCIÓN |
-|---|---|
-| `text` | Campo de texto. |
-| `password`	| Campo oculto. Usado para contraseñas. |
-| `number`	| Campo de número. Muestra un selector y agrega validación predeterminada. |
-| `date`	| Campo de fecha (año, mes y día). Abre un selector de fechas para año, mes y día. |
-| `email`	| Campo de correo electrónico haciendo su validación. |
-| `checkbox`	| Casilla de verificación que permite seleccionar o deseleccionar distintos valores. |
-| `submit`	| Botón que envía el formulario |
-| `image`	| Botón con imagen de tipo submit. La imagen se define en el atributo src. |
-| `file`	| Permite seleccionar un archivo. |
-| `radio`	| Permite seleccionar un valor único entre múltiples opciones. |
-| `color` | Control para especificar un color; abre un selector de colores cuando está activo. |
-| `url`	| Nos permite ingresar una URL. |
-</div>
+### 🎛️ Atrubutos Del Input 
 
-<br>
-<br>
+<div align="center">  
 
-<div align="center">
-  
-  ##  [ANTERIOR](https://github.com/judali05/HTML-5/blob/main/RUTA/3%23%20CONTENIDO%20Y%20TEXTO.md)  ||  [SIGUIENTE](https://github.com/judali05/HTML-5/blob/main/RUTA/5%23%20TABLAS.md)
-  
-</div>
+| **Atributo** | **Descripción** |  
+|---|---|  
+| `type` | 🔢 Especifica el tipo de entrada, como texto, contraseña, correo, etc. |  
+| `value` | 🏷️ Establece el valor inicial del campo de entrada. |  
+| `placeholder` | 💬 Muestra un texto de referencia dentro del campo hasta que se ingresa un valor. |  
+| `required` | ❗ Indica que el campo es obligatorio. |  
+| `readonly` | 🔒 Hace que el campo solo sea de lectura; el usuario no puede modificarlo. |  
+| `disabled` | 🚫 Deshabilita el campo, impidiendo su edición y envío en el formulario. |  
+| `size` | 📏 Determina la cantidad de caracteres visibles en el campo. Su valor predeterminado es 20. Solo funciona con los tipos: `text`, `search`, `tel`, `url`, `email` y `password`. |  
+| `maxlength` | 🔢 Establece la cantidad máxima de caracteres permitidos. |  
+| `min` / `max` | 📉📈 Define valores mínimos y máximos para el campo. |  
+| `pattern` | 🔤 Permite definir una expresión regular para validar la entrada. |  
+
+</div>  
+<br>  
+
+### 🔠 Valores Del Atributo `Type`  
+
+El atributo `type` de los elementos `<input>` define el tipo de datos que se pueden ingresar en un campo.  
+
+<div align="center">  
+
+| **Valor** | **Descripción** |  
+|---|---|  
+| `text` | Campo de entrada de texto. |  
+| `password` | Campo de entrada de contraseña (oculta el texto). |  
+| `number` | Campo numérico con validación y controles de incremento/decremento. |  
+| `date` | Campo para seleccionar una fecha (año, mes y día). |  
+| `email` | Campo de correo electrónico con validación integrada. |  
+| `checkbox` | Casilla de verificación para seleccionar múltiples opciones. |  
+| `submit` | Botón para enviar el formulario. |  
+| `image` |  Botón de envío con imagen, definida en el atributo `src`. |  
+| `file` | Permite la selección de archivos desde el dispositivo. |  
+| `radio` | Botón de selección única dentro de un grupo de opciones. |  
+| `color` | Selector de color. |  
+| `url` | Campo de entrada para direcciones web (URLs). |  
+</div>  
+
+
+
