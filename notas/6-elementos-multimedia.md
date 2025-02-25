@@ -13,7 +13,7 @@ El contenido multimedia permite incluir recursos externos como videos, audios, m
 | `<param>` | Define parámetros para los plugins utilizados en `<object>`. |
 <br/>
 
-## 🖼️ Atributos De `<img>`  
+## 🖼️ Atributos de `<img>`  
 Los atributos más comunes en la etiqueta `<img>` son los siguientes:  
 
 * **`src`** 📌: Especifica la ruta o URL de la imagen.  
