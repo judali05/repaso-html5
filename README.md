@@ -25,8 +25,5 @@ Este repositorio contiene notas, ejercicios y proyectos pequeños para ir adquir
 * Elementos multimedia
 * Tipos de equetas
 * Marcadores
-* SEO `Proximamente`
-*  Accesibilidad (A11y) `Proximamente` 
-
-
-
+* SEO
+*  Accesibilidad  
