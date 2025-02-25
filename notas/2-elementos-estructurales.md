@@ -1,13 +1,13 @@
-# 📂 Elementos Estructurales 
+# 📂 Elementos estructurales 
 
 Los elementos estructurales de una página web forman la base del documento HTML. Aquí encontrarás los principales:  
 
-- [🏁 ELEMENTOS INICIALES](#-elementos-iniciales)  
-- [📝 ELEMENTOS PARA METADATOS](#-elementos-para-metadatos)  
-- [📌 ELEMENTOS DE SECCIONES](#-elementos-de-secciones)  
+- [🏁 Elementos iniciales](#-elementos-iniciales)  
+- [📝 Elementos para metadatos](#-elementos-para-metadatos)  
+- [📌 Elementos de secciones](#-elementos-de-secciones)  
 <br/> 
 
-## 🏁 Elementos Iniciales  
+## 🏁 Elementos iniciales  
 
 ### `<!DOCTYPE html>`  
 Indica que el documento sigue el estándar HTML5.  
@@ -27,7 +27,7 @@ Define el inicio y fin del documento HTML.
 ```  
 <br/>
 
-## 📝 Elementos Para Metadatos  
+## 📝 Elementos para metadatos  
 
 ### `<head></head>`  
 Contiene información sobre el documento, como enlaces a estilos y scripts.  
@@ -98,7 +98,7 @@ Permite agregar estilos CSS directamente en el documento.
 ```  
 <br/> 
 
-## 📌 Elementos De Secciones  
+## 📌 Elementos de secciones  
 
 ### `<body></body>`  
 Contiene el contenido visible de la página.  
