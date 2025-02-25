@@ -17,15 +17,16 @@ Este repositorio contiene notas, ejercicios y proyectos pequeños para ir adquir
 * `/assets` → Contenedor de imagenes.
   
 ## 📌 Temas cubiertos
-* Estructura básica de HTML
-* Etiquetas semánticas
-* Formularios y validaciones
-* Enlaces e imágenes
-* Tablas y listas  
+* Sintaxis
+* Elementos estructurales
+* Contenedores & texto
+* formulario
+* Tablas
+* Elementos multimedia
+* Tipos de equetas
+* Marcadores
+* SEO `Proximamente`
+*  Accesibilidad (A11y) `Proximamente` 
 
-## tener en cuenta mas adelante
-* semantica
-* seo
-* layouts
-* accesibilidad
+
 
