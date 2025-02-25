@@ -1,7 +1,7 @@
 # ⏩ Marcadores (ANCHORS)  
 Cuando una página web es muy extensa y tiene múltiples secciones, es útil crear enlaces internos que nos permitan **navegar rápidamente** a una parte específica del contenido. Estos enlaces se llaman **marcadores** o **anclas internas**.  
 
-## 🔗 Crear un marcador dentro del mismo documento  
+## 🔗 Crear un Marcador Dentro Del Mismo Documento  
 Para definir un marcador, se usa una estructura similar a la de un hipervínculo. Primero, se asigna un **nombre** a la sección de la página a la que queremos enlazar:  
 
 ```html
