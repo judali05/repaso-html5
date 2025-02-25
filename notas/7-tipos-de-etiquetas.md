@@ -6,7 +6,7 @@ Los elementos en bloque ocupan todo el ancho disponible dentro de su contenedor 
 
 <div align="center">
 
-<img src="https://github.com/judali05/repaso-html5/blob/main/assets/posicionamiento-block.png" style="width: 450px;">  
+<img src="https://github.com/judali05/repaso-html5/blob/main/img/posicionamiento-block.png" style="width: 450px;">  
 </div>  
 <br>  
 
@@ -15,7 +15,7 @@ Los elementos en línea solo ocupan el espacio necesario dentro de su contenido.
 
 <div align="center">
 
-<img src="https://github.com/judali05/repaso-html5/blob/main/assets/posicionamiento-inline.png" style="width: 450px;">  
+<img src="https://github.com/judali05/repaso-html5/blob/main/img/posicionamiento-inline.png" style="width: 450px;">  
 </div>  
 <br>  
 

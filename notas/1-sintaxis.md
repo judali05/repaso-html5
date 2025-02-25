@@ -20,7 +20,7 @@ Una de las principales ventajas de HTML5 es la inclusión de elementos semántic
 Estos ayudan a definir la distribución de una página web, facilitando la diferenciación del contenido de cada etiqueta.  
 
 <div align="center">
-  <img src="https://github.com/judali05/repaso-html5/blob/main/assets/EsctructuraHTML5.png"
+  <img src="https://github.com/judali05/repaso-html5/blob/main/img/EsctructuraHTML5.png"
   style="height: 450px;">
 </div>
 

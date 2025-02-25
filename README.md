@@ -3,7 +3,7 @@
        alt="HTML - Aplicación">
 </div>
 
-<img src="https://github.com/judali05/repaso-html5/blob/main/assets/html_logo.png"
+<img src="https://github.com/judali05/repaso-html5/blob/main/img/html_logo.png"
      style="width: 55px; height: 72px;" align="left">
 
 # Repaso HTML5
