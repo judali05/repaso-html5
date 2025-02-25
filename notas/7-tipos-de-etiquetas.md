@@ -1,7 +1,7 @@
-# 📖 Orden En HTML  
+# 📖 Orden en HTML  
 Al maquetar una página web, es fundamental organizar correctamente las diferentes etiquetas como textos, tablas y formularios. Para ello, es importante conocer los dos tipos principales de elementos: **bloque** e **inline** (en línea).  
 
-## 🏗️ Elementos En Bloque (BLOCK)  
+## 🏗️ Elementos en Bloque (BLOCK)  
 Los elementos en bloque ocupan todo el ancho disponible dentro de su contenedor padre. Algunos ejemplos son: `<div>`, `<table>`, `<ul>`, `<p>`, etc.  
 
 <div align="center">
