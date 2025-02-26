@@ -10,20 +10,28 @@
 
 Este repositorio contiene notas, ejercicios y proyectos pequeños para ir adquiriendo nuevo conocimiento de HTML (HyperText Markup Language) en español. Este lenguaje de marcado consiste en una serie de elementos que sirven para cerrar, delimitar o marcar el contenido del documento, haciéndolo aparecer de cierta manera o actuar de diferentes formas para facilitar la comprensión.
 
-## 📂 Estructura
+## :open_file_folder: Estructura
 * `/notas` → Conceptos teóricos y estructura del lenguaje.
 * `/ejercicios` → Pequeños desafíos para practicar etiquetas y elementos.
 * `/proyectos` → Mini-proyectos para aplicar lo aprendido.
 * `/assets` → Contenedor de imagenes.
   
-## 📌 Temas cubiertos
-* Sintaxis
-* Elementos estructurales
-* Contenedores & texto
-* formulario
-* Tablas
-* Elementos multimedia
-* Tipos de equetas
-* Marcadores
-* SEO
-*  Accesibilidad  
+## :pushpin: Temas cubiertos
+* [Sintaxis](https://github.com/judali05/repaso-html5/blob/main/notas/1-sintaxis.md)
+* [Elementos estructurales](https://github.com/judali05/repaso-html5/blob/main/notas/2-elementos-estructurales.md)
+* [Contenedores & texto](https://github.com/judali05/repaso-html5/blob/main/notas/3-contenido-%26-texto.md)
+* [Formulario](https://github.com/judali05/repaso-html5/blob/main/notas/4-formulario.md)
+* [Tablas](https://github.com/judali05/repaso-html5/blob/main/notas/5-tablas.md)
+* [Elementos multimedia](https://github.com/judali05/repaso-html5/blob/main/notas/6-elementos-multimedia.md)
+* [Tipos de equetas](https://github.com/judali05/repaso-html5/blob/main/notas/7-tipos-de-etiquetas.md)
+* [Marcadores](https://github.com/judali05/repaso-html5/blob/main/notas/8-marcadores.md   )
+* [SEO](https://github.com/judali05/repaso-html5/blob/main/notas/9-SEO.md)
+* [Accesibilidad](https://github.com/judali05/repaso-html5/blob/main/notas/10-accesibilidad.md)
+
+# :school_satchel: Ejercicios
+
+*[Formulario "registro"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/formulario)
+*[Tabla "horario escolar"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/tabla)
+*[Multimedia "reproductor"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/multimedia)
+
+# :trophy: Proyectos
