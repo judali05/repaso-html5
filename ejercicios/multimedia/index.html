@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        *{
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: rgb(15, 20, 27);
+            font-family: sans-serif;
+        }
+
+        h1 {
+            margin-top: 4%;
+            color: #ffffff;
+            text-align: center;
+        }
+
+        div {
+            margin: auto;
+            margin-top: 10px;
+            width: 800px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        video {
+            width: 100%;
+            border-radius: 8px;
+        }
+        
+        audio {
+            width: 50%;
+            padding: 10px;
+        }
+    </style>
+    <title>Multimedia</title>
+</head>
+<body>
+    <h1>Hola, Mundo</h1>
+    <div>
+        <video controls autoplay muted loop>
+            <source src="assets/vid/circuit.mp4" type="video/mp4">
+            <track src="assets/subtitles/subtitles_en.vtt" kind="subtitles" srclang="en" label="Ingles">
+            <track src="assets/subtitles/subtitles_es.vtt" kind="subtitles" srclang="es" label="Español">
+            <track src="assets/subtitles/subtitles_it.vtt" kind="subtitles" srclang="it" label="Italiano">
+            <track src="assets/subtitles/subtitles_pt.vtt" kind="subtitles" srclang="pt" label="Portugués">
+            Tu navegador no soporta videos.
+        </video>
+        
+        <audio controls autoplay loop>
+            <source src="assets/aud/relax.mp3" type="audio/mpeg">
+            Tu navegador no soporta audio.
+        </audio>
+    </div>
+</body>
+</html> 
