@@ -1,0 +1,106 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            * {
+                margin: 0%;
+                padding: 0%;
+            }
+
+            h1 {
+                text-align: center;
+                margin-top: 3%;
+            }
+
+            table {
+                margin: auto;
+                margin-top: 15px;
+                border-collapse: collapse;
+                font-family: 'Poppins', sans-serif;
+            }
+
+            thead{
+                background-color: rgb(223, 100, 0);
+                color: #ffffff;
+
+            }
+
+            tbody td:nth-child(even) {
+                background-color: #e9e9e9;
+            }
+
+            td, th {
+                border: 2px solid #0f0f0f;
+                width: 120px;
+                text-align: center;
+                padding: 5px;
+            }
+
+            tfoot {
+                background-color: rgb(255, 173, 79);
+                font-weight: bold;
+            }
+
+        </style>
+        <title>Tabla</title>
+    </head>
+    <body>
+        <h1>Horario</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Hora</th>
+                    <th>Lunes</th>
+                    <th>Martes</th>
+                    <th>Miércoles</th>
+                    <th>Jueves</th>
+                    <th>Viernes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>7:00 a 8:00</td>
+                    <td rowspan="2">Español</td>
+                    <td rowspan="2">Ingles</td>
+                    <td rowspan="2">Ciencias</td>
+                    <td rowspan="2">Matematicas</td>
+                    <td rowspan="2">Sociales</td>
+
+                </tr>
+                <tr>
+                    <td>8:00 a 9:00</td>
+                </tr>
+                <tr>
+                    <td>9:00 a 10:00</td>
+                    <td>Ingles</td>
+                    <td>Religion</td>
+                    <td>Artes</td>
+                    <td>Danzas</td>
+                    <td>Matematicas</td>
+                </tr>
+                <tr>
+                    <td>10:00 a 11:00</td>
+                    <td colspan="5">Descanso </td>
+                </tr>
+                <tr>
+                    <td>11:00 a 12:00</td>
+                    <td rowspan="2">Etica</td>
+                    <td rowspan="2">Fisica</td>
+                    <td rowspan="2">Ingles</td>
+                    <td rowspan="2">Español</td>
+                    <td rowspan="2">Ludicas</td>
+                </tr>
+                <tr>
+                    <td>12:00 a 1:00</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="6">Curso: Septimo 2025</td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+    </html>
