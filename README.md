@@ -30,8 +30,8 @@ Este repositorio contiene notas, ejercicios y proyectos pequeños para ir adquir
 
 # :school_satchel: Ejercicios
 
-*[Formulario "registro"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/formulario)
-*[Tabla "horario escolar"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/tabla)
-*[Multimedia "reproductor"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/multimedia)
+* [Formulario "Registro"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/formulario)
+* [Tabla "Horario escolar"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/tabla)
+* [Multimedia "Reproductor"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/multimedia)
 
 # :trophy: Proyectos
