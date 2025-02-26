@@ -5,7 +5,7 @@
 Diseñar una tabla que represente un horario semanal de clases o actividades, donde el horario semanal, con días de la semana vaya en la primera fila y horas en la primera columna. Las celdas deben estar bien organizadas y ser fáciles de leer.
 
 <div align="center">
-  <img src="https://github.com/judali05/repaso-html5/blob/main/img/eje-formulario.png"
+  <img src="https://github.com/judali05/repaso-html5/blob/main/img/eje-tabla.png"
   style="width: 600px;">
 </div>
 
