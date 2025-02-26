@@ -40,7 +40,7 @@ Los encabezados ayudan a los buscadores a entender la estructura de tu contenido
 * No abuses de los `<h1>` o `<h2>` solo para hacer texto grande.  
 <br/>
 
-### 3️⃣ Imágenes Optimizadas Para SEO**  
+### 3️⃣ Imágenes Optimizadas Para SEO  
 Las imágenes deben tener un **nombre descriptivo** y un atributo `alt` para ayudar a los motores de búsqueda a entenderlas.  
 
 📌 **Ejemplo correcto:**  
