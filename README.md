@@ -13,7 +13,6 @@ Este repositorio contiene notas, ejercicios y proyectos pequeños para ir adquir
 ## :open_file_folder: Estructura
 * `/notas` → Conceptos teóricos y estructura del lenguaje.
 * `/ejercicios` → Pequeños desafíos para practicar etiquetas y elementos.
-* `/proyectos` → Mini-proyectos para aplicar lo aprendido.
 * `/assets` → Contenedor de imagenes.
   
 ## :pushpin: Temas cubiertos
@@ -34,4 +33,3 @@ Este repositorio contiene notas, ejercicios y proyectos pequeños para ir adquir
 * [Tabla "Horario escolar"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/tabla)
 * [Multimedia "Reproductor"](https://github.com/judali05/repaso-html5/tree/main/ejercicios/multimedia)
 
-# :trophy: Proyectos
